@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Programmer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **photoshop app using python**
+- 🔭 I’m currently working on **An Android Application**
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently learning **Android development,Machine Learning and Data Science**
 
 - 💬 Ask me about **Python,Java,PLSQL**
 
