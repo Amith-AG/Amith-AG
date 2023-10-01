@@ -1,9 +1,8 @@
-![logo](https://github.com/Amith-AG/Amith-AG/blob/main/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Amith A G</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **An Android Application**
+- 🔭 I’m currently working for a company(Blok Supply Chain) as an Web developer(Part time|Remote)
 
 - 🌱 I’m currently learning **Android development,Machine Learning and Data Science**
 
