@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working for a company(Blok Supply Chain) as an Web developer(Part time|Remote)
 
-- 🌱 I’m currently learning **Android development,Machine Learning and Data Science**
+- 🌱 I’m currently learning **Android development, Machine Learning and Web Development**
 
-- 💬 Ask me about **Python,Java,PLSQL**
+- 💬 Ask me about **Nextjs, MongoDB,Python, Java,PLSQL**
 
 - 📫 How to reach me **amithanil32@gmail.com**
 
