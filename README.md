@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working for a company(Blok Supply Chain) as an Web developer(Part time|Remote)
+- 🔭 I’m currently working for a company(Blok Supply Chain) as an Web developer
 
 - 🌱 I’m currently learning **Android development, Machine Learning and Web Development**
 
