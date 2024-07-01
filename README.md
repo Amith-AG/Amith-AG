@@ -8,8 +8,9 @@
 - Email: [amithanil32@gmail.com](mailto:amithanil32@gmail.com)
 - 
 <p>I am always open to discussing new projects, collaborations, or opportunities to contribute to open-source. Feel free to reach out!</p>
+
 ---
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 
 
