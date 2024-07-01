@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Amith A G</h1>
+<h1 align="center">Hello, I'm Amith👋</h1>
 <h3 align="center">A passionate Programmer</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/PsKFAPSiQ5wAAAAi/white-opal-jewel-shells.gif">
 
-- 📫 How to reach me **amithanil32@gmail.com**
+## 📫 Get in Touch
+
+- LinkedIn: [https://www.linkedin.com/in/amith-ag/](https://www.linkedin.com/in/amith-ag/)
+- Email: [amithanil32@gmail.com](mailto:amithanil32@gmail.com)
+
+I am always open to discussing new projects, collaborations, or opportunities to contribute to open-source. Feel free to reach out!
+---
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 
 
