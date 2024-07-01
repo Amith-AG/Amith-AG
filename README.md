@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Amith👋</h1>
-<h3 align="center">I am a Developer specializing in JavaScript and focused on building efficient and scalable web applications and mobile application.</h3>
+<h3 align="center">I am a Developer specializing in JavaScript and focused on building efficient and scalable web and mobile applications.</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/PsKFAPSiQ5wAAAAi/white-opal-jewel-shells.gif">
 
 ## 📫 Get in Touch
