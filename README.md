@@ -1,8 +1,9 @@
 <h1 align="center">Hello, I'm Amith👋</h1>
 <h3 align="center">I am a Developer specializing in JavaScript and focused on building efficient and scalable web and mobile applications.</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/PsKFAPSiQ5wAAAAi/white-opal-jewel-shells.gif">
-<div>
-## 📫 Get in Touch
+
+
+<p>📫 Get in Touch</p>
 
 - LinkedIn: [https://www.linkedin.com/in/amith-ag/](https://www.linkedin.com/in/amith-ag/)
 - Email: [amithanil32@gmail.com](mailto:amithanil32@gmail.com)
