@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/PsKFAPSiQ5wAAAAi/white-opal-jewel-shells.gif">
 
 
-##📫 Get in Touch
+<h3> 📫 Get in Touch</h3>
 
 - LinkedIn: [https://www.linkedin.com/in/amith-ag/](https://www.linkedin.com/in/amith-ag/)
 - Email: [amithanil32@gmail.com](mailto:amithanil32@gmail.com)
