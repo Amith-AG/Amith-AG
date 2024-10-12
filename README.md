@@ -3,9 +3,6 @@
 <div align="center">
   <img src="https://media.tenor.com/PsKFAPSiQ5wAAAAi/white-opal-jewel-shells.gif" style="max-width: 100%; height: auto;" width="300">
 </div>
-
-
-
 <h3> 📫 Get in Touch</h3>
 
 - LinkedIn: [https://www.linkedin.com/in/amith-ag/](https://www.linkedin.com/in/amith-ag/)
