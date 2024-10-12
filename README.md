@@ -6,9 +6,9 @@
   
   <!-- Text content on the left -->
   <div style="flex: 1;">
-    <h3>📫 Get in Touch</h3>
+    <h2>📫 Get in Touch</h2>
     <ul>
-      <li>LinkedIn: [https://www.linkedin.com/in/amith-ag/](https://www.linkedin.com/in/amith-ag/)</li>
+      <li>LinkedIn: [www.linkedin.com/in/amith-ag/](https://www.linkedin.com/in/amith-ag/)</li>
       <li>Email: [amithanil32@gmail.com](mailto:amithanil32@gmail.com)</li>
     </ul>
     <p>I am always open to discussing new projects, collaborations, or opportunities to contribute to open-source. Feel free to reach out!</p>
