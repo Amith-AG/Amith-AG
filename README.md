@@ -8,8 +8,8 @@
   <div style="flex: 1;">
     <h2>📫 Get in Touch</h2>
     <ul>
-      <li>LinkedIn: [www.linkedin.com/in/amith-ag/](https://www.linkedin.com/in/amith-ag/)</li>
-      <li>Email: [amithanil32@gmail.com](mailto:amithanil32@gmail.com)</li>
+      <li href="https://www.linkedin.com/in/amith-ag/">LinkedIn: www.linkedin.com/in/amith-ag/</li>
+      <li>Email: <a mailto:amithanil32@gmail.com >amithanil32@gmail.com</a>a></li>
     </ul>
     <p>I am always open to discussing new projects, collaborations, or opportunities to contribute to open-source. Feel free to reach out!</p>
   </div>
