@@ -9,7 +9,7 @@
     <h2>📫 Get in Touch</h2>
     <ul>
       <li href="https://www.linkedin.com/in/amith-ag/">LinkedIn: www.linkedin.com/in/amith-ag/</li>
-      <li href="mailto:amithanil32@gmail.com" >Email:amithanil32@gmail.com</li>
+      <li>Email:<a  href="mailto:amithanil32@gmail.com" >amithanil32@gmail.com</a> </li>
     </ul>
     <p>I am always open to discussing new projects, collaborations, or opportunities to contribute to open-source. Feel free to reach out!</p>
   </div>
