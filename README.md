@@ -1,4 +1,5 @@
 <h1 align="center">Hello, I'm Amith👋</h1>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Amith-AG)
 <h3 align="center">I am a Developer specializing in JavaScript and focused on building efficient and scalable web and mobile applications.</h3>
 
 <!-- Container that aligns content in desktop -->
