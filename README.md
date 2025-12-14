@@ -14,15 +14,9 @@
 
 <br/>
 
-<p align="center">
-  <img
-    src="https://media.tenor.com/PsKFAPSiQ5wAAAAi/white-opal-jewel-shells.gif"
-    width="240"
-    alt="Animated illustration"
-  />
-</p>
-
----
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
 
 ### 📫 Get in Touch
 
@@ -31,3 +25,14 @@
 
 I’m always open to discussing new projects, collaborations,  
 or opportunities to contribute to open-source.
+
+  </td>
+  <td width="40%" align="center">
+    <img
+      src="https://media.tenor.com/PsKFAPSiQ5wAAAAi/white-opal-jewel-shells.gif"
+      width="260"
+      alt="Animated illustration"
+    />
+  </td>
+  </tr>
+</table>
